@@ -1,7 +1,12 @@
 {
-  "name": "todolist-franciel",
+  "name": "todolistreact",
   "version": "0.1.0",
   "private": true,
+  "author": {
+    "name": "Franciel Leandro",
+    "email": "francielleandro@gmail.com",
+    "url": "https://github.com/francielleandro/TODOLISTREACT"
+  },
   "scripts": {
     "dev": "next dev",
     "build": "next build",
